@@ -7,7 +7,8 @@ Year,Gender,Units,Value
 2020,,Total Number in Thousands,103.9
 2021,,Total Number in Thousands,54.4
 2022,,Total Number in Thousands,68.1
-2023,,Total Number in Thousands,64.9
+2023,,Total Number in Thousands,54.0
+2024,,Total Number in Thousands,51.5
 2015,Men,Total Number in Thousands,49.3
 2016,Men,Total Number in Thousands,46.8
 2017,Men,Total Number in Thousands,43.6
@@ -16,7 +17,8 @@ Year,Gender,Units,Value
 2020,Men,Total Number in Thousands,52.6
 2021,Men,Total Number in Thousands,23.5
 2022,Men,Total Number in Thousands,34.9
-2023,Men,Total Number in Thousands,28.8
+2023,Men,Total Number in Thousands,25.8
+2024,Men,Total Number in Thousands,28.3
 2015,Women,Total Number in Thousands,53.7
 2016,Women,Total Number in Thousands,47.0
 2017,Women,Total Number in Thousands,36.7
@@ -25,4 +27,5 @@ Year,Gender,Units,Value
 2020,Women,Total Number in Thousands,51.3
 2021,Women,Total Number in Thousands,30.9
 2022,Women,Total Number in Thousands,33.2
-2023,Women,Total Number in Thousands,36.0
+2023,Women,Total Number in Thousands,28.2
+2024,Women,Total Number in Thousands,23.2
