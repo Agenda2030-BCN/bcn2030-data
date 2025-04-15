@@ -46,7 +46,7 @@ Year,Districte,Units,Value
 2021,Nou Barris,Taxa per 1.000,20.6
 2021,Sant Andreu,Taxa per 1.000,11.4
 2021,Sant Martí,Taxa per 1.000,15.7
-2021,Barcelona,Diferencial de la taxa més baixa,13.5
+2021,Barcelona,Diferencial de la taxa més baixa,14.3
 2022,Barcelona,Taxa per 1.000,15.8
 2022,Ciutat Vella,Taxa per 1.000,24.4
 2022,Eixample,Taxa per 1.000,9.5
@@ -59,3 +59,15 @@ Year,Districte,Units,Value
 2022,Sant Andreu,Taxa per 1.000,15.4
 2022,Sant Martí,Taxa per 1.000,12.9
 2022,Barcelona,Diferencial de la taxa més baixa,17.0
+2023,Barcelona,Taxa per 1.000,15.7
+2023,Ciutat Vella,Taxa per 1.000,21.4
+2023,Eixample,Taxa per 1.000,10.8
+2023,Sants-Montjuïc,Taxa per 1.000,15.5
+2023,Les Corts,Taxa per 1.000,9.9
+2023,Sarrià - Sant Gervasi,Taxa per 1.000,8.5
+2023,Gràcia,Taxa per 1.000,12.8
+2023,Horta - Guinardó,Taxa per 1.000,15.5
+2023,Nou Barris,Taxa per 1.000,21.5
+2023,Sant Andreu,Taxa per 1.000,12.6
+2023,Sant Martí,Taxa per 1.000,13.4
+2023,Barcelona,Diferencial de la taxa més baixa,13.1
