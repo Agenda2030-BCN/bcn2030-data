@@ -46,7 +46,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-4-1,Gender,1
 #4-4-2,Gender,1
 #4-5-1,"Type_Segregation, Education_Level",2
-#4-6-1,"Language, Gender",2
+#4-6-1,"Gender, Language",2
 #4-a-1,Management_Entity,1
 #5-5-4,Management,1
 #6-1-2,Scenario,1
