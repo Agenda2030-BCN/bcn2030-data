@@ -9,6 +9,7 @@ Year,Area,Gender,Units,Value
 2022,Neighbourhood,,0-10 scale,6.1
 2023,Neighbourhood,,0-10 scale,6.1
 2024,Neighbourhood,,0-10 scale,6.1
+2025,Neighbourhood,,0-10 scale,6.3
 2015,Neighbourhood,Men,0-10 scale,6.5
 2016,Neighbourhood,Men,0-10 scale,6.5
 2017,Neighbourhood,Men,0-10 scale,6.6
@@ -19,6 +20,7 @@ Year,Area,Gender,Units,Value
 2022,Neighbourhood,Men,0-10 scale,6.1
 2023,Neighbourhood,Men,0-10 scale,6.1
 2024,Neighbourhood,Men,0-10 scale,6.1
+2025,Neighbourhood,Men,0-10 scale,6.4
 2015,Neighbourhood,Women,0-10 scale,6.2
 2016,Neighbourhood,Women,0-10 scale,6.5
 2017,Neighbourhood,Women,0-10 scale,6.5
@@ -29,6 +31,7 @@ Year,Area,Gender,Units,Value
 2022,Neighbourhood,Women,0-10 scale,6.1
 2023,Neighbourhood,Women,0-10 scale,6.0
 2024,Neighbourhood,Women,0-10 scale,6.2
+2025,Neighbourhood,Women,0-10 scale,6.2
 2015,City,,0-10 scale,6.2
 2016,City,,0-10 scale,6.3
 2017,City,,0-10 scale,6.2
@@ -39,6 +42,7 @@ Year,Area,Gender,Units,Value
 2022,City,,0-10 scale,5.4
 2023,City,,0-10 scale,5.3
 2024,City,,0-10 scale,5.3
+2025,City,,0-10 scale,5.5
 2015,City,Men,0-10 scale,6.3
 2016,City,Men,0-10 scale,6.0
 2017,City,Men,0-10 scale,6.4
@@ -49,6 +53,7 @@ Year,Area,Gender,Units,Value
 2022,City,Men,0-10 scale,5.5
 2023,City,Men,0-10 scale,5.4
 2024,City,Men,0-10 scale,5.4
+2025,City,Men,0-10 scale,5.6
 2015,City,Women,0-10 scale,6.0
 2016,City,Women,0-10 scale,5.9
 2017,City,Women,0-10 scale,6.2
@@ -59,3 +64,4 @@ Year,Area,Gender,Units,Value
 2022,City,Women,0-10 scale,5.4
 2023,City,Women,0-10 scale,5.3
 2024,City,Women,0-10 scale,5.3
+2025,City,Women,0-10 scale,5.4
