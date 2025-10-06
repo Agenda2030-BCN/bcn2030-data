@@ -9,6 +9,7 @@ Year,Gender,Units,Value
 2022,,Rating 0-10,6.0
 2023,,Rating 0-10,5.8
 2024,,Rating 0-10,6.4
+2025,,Rating 0-10,6.7
 2015,Men,Rating 0-10,6.8
 2016,Men,Rating 0-10,6.9
 2017,Men,Rating 0-10,6.8
@@ -19,6 +20,7 @@ Year,Gender,Units,Value
 2022,Men,Rating 0-10,6.2
 2023,Men,Rating 0-10,5.9
 2024,Men,Rating 0-10,6.5
+2025,Men,Rating 0-10,6.8
 2015,Women,Rating 0-10,6.3
 2016,Women,Rating 0-10,6.5
 2017,Women,Rating 0-10,6.5
@@ -29,3 +31,4 @@ Year,Gender,Units,Value
 2022,Women,Rating 0-10,5.9
 2023,Women,Rating 0-10,5.7
 2024,Women,Rating 0-10,6.3
+2025,Women,Rating 0-10,6.5
