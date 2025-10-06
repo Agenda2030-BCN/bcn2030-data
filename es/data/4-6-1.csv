@@ -9,6 +9,7 @@ Year,Idioma,Sexo,Units,Value
 2022,Catalán,,Porcentaje,74.4
 2023,Catalán,,Porcentaje,74.7
 2024,Catalán,,Porcentaje,72.2
+2025,Catalán,,Porcentaje,71.1
 2015,Catalán,Hombres,Porcentaje,77.1
 2016,Catalán,Hombres,Porcentaje,75.4
 2017,Catalán,Hombres,Porcentaje,76.5
@@ -19,6 +20,7 @@ Year,Idioma,Sexo,Units,Value
 2022,Catalán,Hombres,Porcentaje,74.2
 2023,Catalán,Hombres,Porcentaje,74.9
 2024,Catalán,Hombres,Porcentaje,73.8
+2025,Catalán,Hombres,Porcentaje,70.6
 2015,Catalán,Mujeres,Porcentaje,76.3
 2016,Catalán,Mujeres,Porcentaje,76.2
 2017,Catalán,Mujeres,Porcentaje,73.8
@@ -29,6 +31,7 @@ Year,Idioma,Sexo,Units,Value
 2022,Catalán,Mujeres,Porcentaje,74.5
 2023,Catalán,Mujeres,Porcentaje,74.6
 2024,Catalán,Mujeres,Porcentaje,70.9
+2025,Catalán,Mujeres,Porcentaje,71.4
 2015,Español,,Porcentaje,100.0
 2016,Español,,Porcentaje,100.0
 2017,Español,,Porcentaje,100.0
@@ -39,6 +42,7 @@ Year,Idioma,Sexo,Units,Value
 2022,Español,,Porcentaje,100.0
 2023,Español,,Porcentaje,100.0
 2024,Español,,Porcentaje,99.9
+2025,Español,,Porcentaje,99.8
 2015,Español,Hombres,Porcentaje,100.0
 2016,Español,Hombres,Porcentaje,100.0
 2017,Español,Hombres,Porcentaje,100.0
@@ -49,6 +53,7 @@ Year,Idioma,Sexo,Units,Value
 2022,Español,Hombres,Porcentaje,100.0
 2023,Español,Hombres,Porcentaje,100.0
 2024,Español,Hombres,Porcentaje,99.8
+2025,Español,Hombres,Porcentaje,99.8
 2015,Español,Mujeres,Porcentaje,100.0
 2016,Español,Mujeres,Porcentaje,100.0
 2017,Español,Mujeres,Porcentaje,100.0
@@ -59,6 +64,7 @@ Year,Idioma,Sexo,Units,Value
 2022,Español,Mujeres,Porcentaje,100.0
 2023,Español,Mujeres,Porcentaje,100.0
 2024,Español,Mujeres,Porcentaje,99.9
+2025,Español,Mujeres,Porcentaje,99.8
 2015,Inglés,,Porcentaje,44.0
 2016,Inglés,,Porcentaje,46.0
 2017,Inglés,,Porcentaje,48.0
@@ -69,6 +75,7 @@ Year,Idioma,Sexo,Units,Value
 2022,Inglés,,Porcentaje,56.2
 2023,Inglés,,Porcentaje,57.4
 2024,Inglés,,Porcentaje,57.7
+2025,Inglés,,Porcentaje,58.6
 2015,Inglés,Hombres,Porcentaje,48.6
 2016,Inglés,Hombres,Porcentaje,50.9
 2017,Inglés,Hombres,Porcentaje,53.9
@@ -79,6 +86,7 @@ Year,Idioma,Sexo,Units,Value
 2022,Inglés,Hombres,Porcentaje,60.9
 2023,Inglés,Hombres,Porcentaje,62.3
 2024,Inglés,Hombres,Porcentaje,63.1
+2025,Inglés,Hombres,Porcentaje,63.2
 2015,Inglés,Mujeres,Porcentaje,40.0
 2016,Inglés,Mujeres,Porcentaje,41.6
 2017,Inglés,Mujeres,Porcentaje,42.0
@@ -89,3 +97,4 @@ Year,Idioma,Sexo,Units,Value
 2022,Inglés,Mujeres,Porcentaje,52.0
 2023,Inglés,Mujeres,Porcentaje,53.1
 2024,Inglés,Mujeres,Porcentaje,53.0
+2025,Inglés,Mujeres,Porcentaje,54.6
