@@ -9,6 +9,7 @@ Year,Sexo,Units,Value
 2022,,Puntuación 0-10,6.0
 2023,,Puntuación 0-10,5.8
 2024,,Puntuación 0-10,6.4
+2025,,Puntuación 0-10,6.7
 2015,Hombres,Puntuación 0-10,6.8
 2016,Hombres,Puntuación 0-10,6.9
 2017,Hombres,Puntuación 0-10,6.8
@@ -19,6 +20,7 @@ Year,Sexo,Units,Value
 2022,Hombres,Puntuación 0-10,6.2
 2023,Hombres,Puntuación 0-10,5.9
 2024,Hombres,Puntuación 0-10,6.5
+2025,Hombres,Puntuación 0-10,6.8
 2015,Mujeres,Puntuación 0-10,6.3
 2016,Mujeres,Puntuación 0-10,6.5
 2017,Mujeres,Puntuación 0-10,6.5
@@ -29,3 +31,4 @@ Year,Sexo,Units,Value
 2022,Mujeres,Puntuación 0-10,5.9
 2023,Mujeres,Puntuación 0-10,5.7
 2024,Mujeres,Puntuación 0-10,6.3
+2025,Mujeres,Puntuación 0-10,6.5
