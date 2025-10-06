@@ -9,6 +9,7 @@ Year,Sexe,Units,Value
 2022,,Percentatge,44.8
 2023,,Percentatge,42.9
 2024,,Percentatge,45.3
+2025,,Percentatge,45.8
 2015,Homes,Percentatge,43.9
 2016,Homes,Percentatge,45.2
 2017,Homes,Percentatge,48.2
@@ -19,6 +20,7 @@ Year,Sexe,Units,Value
 2022,Homes,Percentatge,46.0
 2023,Homes,Percentatge,45.2
 2024,Homes,Percentatge,48.8
+2025,Homes,Percentatge,51.2
 2015,Dones,Percentatge,34.0
 2016,Dones,Percentatge,38.4
 2017,Dones,Percentatge,39.2
@@ -29,3 +31,4 @@ Year,Sexe,Units,Value
 2022,Dones,Percentatge,42.5
 2023,Dones,Percentatge,41.4
 2024,Dones,Percentatge,42.4
+2025,Dones,Percentatge,41.0

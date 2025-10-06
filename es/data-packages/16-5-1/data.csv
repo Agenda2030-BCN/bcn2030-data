@@ -9,6 +9,7 @@ Year,Sexo,Units,Value
 2022,,Porcentaje,44.8
 2023,,Porcentaje,42.9
 2024,,Porcentaje,45.3
+2025,,Porcentaje,45.8
 2015,Hombres,Porcentaje,43.9
 2016,Hombres,Porcentaje,45.2
 2017,Hombres,Porcentaje,48.2
@@ -19,6 +20,7 @@ Year,Sexo,Units,Value
 2022,Hombres,Porcentaje,46.0
 2023,Hombres,Porcentaje,45.2
 2024,Hombres,Porcentaje,48.8
+2025,Hombres,Porcentaje,51.2
 2015,Mujeres,Porcentaje,34.0
 2016,Mujeres,Porcentaje,38.4
 2017,Mujeres,Porcentaje,39.2
@@ -29,3 +31,4 @@ Year,Sexo,Units,Value
 2022,Mujeres,Porcentaje,42.5
 2023,Mujeres,Porcentaje,41.4
 2024,Mujeres,Porcentaje,42.4
+2025,Mujeres,Porcentaje,41.0
