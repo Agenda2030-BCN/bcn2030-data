@@ -9,6 +9,7 @@ Year,Tipo de transporte público,Units,Value
 2022,Metro,Puntuación 0-10,7.5
 2023,Metro,Puntuación 0-10,7.3
 2024,Metro,Puntuación 0-10,7.4
+2025,Metro,Puntuación 0-10,7.5
 2015,Bus,Puntuación 0-10,7.2
 2016,Bus,Puntuación 0-10,6.9
 2017,Bus,Puntuación 0-10,7.1
@@ -19,6 +20,7 @@ Year,Tipo de transporte público,Units,Value
 2022,Bus,Puntuación 0-10,7.4
 2023,Bus,Puntuación 0-10,7.3
 2024,Bus,Puntuación 0-10,7.5
+2025,Bus,Puntuación 0-10,7.4
 2015,Bicing,Puntuación 0-10,7.0
 2016,Bicing,Puntuación 0-10,7.1
 2017,Bicing,Puntuación 0-10,7.2
@@ -29,6 +31,7 @@ Year,Tipo de transporte público,Units,Value
 2022,Bicing,Puntuación 0-10,7.6
 2023,Bicing,Puntuación 0-10,7.1
 2024,Bicing,Puntuación 0-10,7.0
+2025,Bicing,Puntuación 0-10,7.0
 2015,Tram,Puntuación 0-10,
 2016,Tram,Puntuación 0-10,
 2017,Tram,Puntuación 0-10,7.7
@@ -39,3 +42,4 @@ Year,Tipo de transporte público,Units,Value
 2022,Tram,Puntuación 0-10,8.0
 2023,Tram,Puntuación 0-10,7.9
 2024,Tram,Puntuación 0-10,8.0
+2025,Tram,Puntuación 0-10,8.2
