@@ -9,16 +9,16 @@ Year,Sector,Units,Value
 2022,Domestic,x1000 tons of CO2,759.3
 2023,Domestic,x1000 tons of CO2,610.7
 2024,Domestic,x1000 tons of CO2,532.8
-2015,Commerce,1000 tn CO2,1535.1
-2016,Commerce,1000 tn CO2,1233.3
-2017,Commerce,1000 tn CO2,1412.3
-2018,Commerce,1000 tn CO2,1273.4
-2019,Commerce,1000 tn CO2,975.5
-2020,Commerce,1000 tn CO2,660.6
-2021,Commerce,1000 tn CO2,717.5
-2022,Commerce,1000 tn CO2,872.2
-2023,Commerce,1000 tn CO2,665.1
-2024,Commerce,1000 tn CO2,586.9
+2015,Commerce,x1000 tons of CO2,1535.1
+2016,Commerce,x1000 tons of CO2,1233.3
+2017,Commerce,x1000 tons of CO2,1412.3
+2018,Commerce,x1000 tons of CO2,1273.4
+2019,Commerce,x1000 tons of CO2,975.5
+2020,Commerce,x1000 tons of CO2,660.6
+2021,Commerce,x1000 tons of CO2,717.5
+2022,Commerce,x1000 tons of CO2,872.2
+2023,Commerce,x1000 tons of CO2,665.1
+2024,Commerce,x1000 tons of CO2,586.9
 2015,Industrial,x1000 tons of CO2,418.3
 2016,Industrial,x1000 tons of CO2,365.6
 2017,Industrial,x1000 tons of CO2,361.1
@@ -83,3 +83,4 @@ Year,Sector,Units,Value
 
  
  
+
