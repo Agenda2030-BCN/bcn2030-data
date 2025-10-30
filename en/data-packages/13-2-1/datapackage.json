@@ -39,7 +39,6 @@
             "constraints": {
               "enum": [
                 "x1000 tons of CO2",
-                "1000 tn CO2",
                 ""
               ]
             },

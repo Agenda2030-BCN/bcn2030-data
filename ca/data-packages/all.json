@@ -4432,7 +4432,6 @@
             "constraints": {
               "enum": [
                 "x1000 tones de CO2",
-                "1000 tones de CO2",
                 ""
               ]
             },
