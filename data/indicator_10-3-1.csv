@@ -8,6 +8,7 @@ Year,Type_Cultural_Service,Units,Value
 2022,Public library,Percentage,16.4
 2023,Public library,Percentage,17.1
 2024,Public library,Percentage,15.7
+2025,Public library,Percentage,13.7
 2016,Popular festival,Percentage,11.7
 2017,Popular festival,Percentage,
 2018,Popular festival,Percentage,
@@ -17,6 +18,7 @@ Year,Type_Cultural_Service,Units,Value
 2022,Popular festival,Percentage,14.0
 2023,Popular festival,Percentage,16.9
 2024,Popular festival,Percentage,13.9
+2025,Popular festival,Percentage,11.2
 2016,Cultural activity,Percentage,23.7
 2017,Cultural activity,Percentage,
 2018,Cultural activity,Percentage,
@@ -26,3 +28,4 @@ Year,Type_Cultural_Service,Units,Value
 2022,Cultural activity,Percentage,26.6
 2023,Cultural activity,Percentage,27.6
 2024,Cultural activity,Percentage,22.6
+2025,Cultural activity,Percentage,20.6
