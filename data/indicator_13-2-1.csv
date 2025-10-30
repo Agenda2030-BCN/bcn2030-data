@@ -1,73 +1,85 @@
 Year,Sector,Units,Value
-2015,Domestic,x1000 tons of CO2,701.6
-2016,Domestic,x1000 tons of CO2,664.7
-2017,Domestic,x1000 tons of CO2,696.5
-2018,Domestic,x1000 tons of CO2,760.4
-2019,Domestic,x1000 tons of CO2,736.5
-2020,Domestic,x1000 tons of CO2,645.5
-2021,Domestic,x1000 tons of CO2,656.3
-2022,Domestic,x1000 tons of CO2,668.3
-2023,Domestic,x1000 tons of CO2,610.0
-2015,Commerce,x1000 tons of CO2,687.0
-2016,Commerce,x1000 tons of CO2,683.6
-2017,Commerce,x1000 tons of CO2,702.4
-2018,Commerce,x1000 tons of CO2,729.1
-2019,Commerce,x1000 tons of CO2,759.9
-2020,Commerce,x1000 tons of CO2,544.5
-2021,Commerce,x1000 tons of CO2,575.8
-2022,Commerce,x1000 tons of CO2,658.7
-2023,Commerce,x1000 tons of CO2,589.0
-2015,Industrial,x1000 tons of CO2,285.6
-2016,Industrial,x1000 tons of CO2,289.5
-2017,Industrial,x1000 tons of CO2,261.8
-2018,Industrial,x1000 tons of CO2,288.6
-2019,Industrial,x1000 tons of CO2,289.3
-2020,Industrial,x1000 tons of CO2,265.2
-2021,Industrial,x1000 tons of CO2,270.8
-2022,Industrial,x1000 tons of CO2,246.8
-2023,Industrial,x1000 tons of CO2,235.8
-2015,Transport,x1000 tons of CO2,1032.7
-2016,Transport,x1000 tons of CO2,1021.3
-2017,Transport,x1000 tons of CO2,935.0
-2018,Transport,x1000 tons of CO2,962.6
-2019,Transport,x1000 tons of CO2,949.5
-2020,Transport,x1000 tons of CO2,718.9
-2021,Transport,x1000 tons of CO2,870.9
-2022,Transport,x1000 tons of CO2,915.1
-2023,Transport,x1000 tons of CO2,895.9
-2015,Others,x1000 tons of CO2,9.7
-2016,Others,x1000 tons of CO2,10.1
-2017,Others,x1000 tons of CO2,9.6
-2018,Others,x1000 tons of CO2,10.9
-2019,Others,x1000 tons of CO2,12.5
-2020,Others,x1000 tons of CO2,3.5
-2021,Others,x1000 tons of CO2,3.1
-2022,Others,x1000 tons of CO2,4.3
-2023,Others,x1000 tons of CO2,4.0
-2015,Port and Airport,x1000 tons of CO2,422.8
+2015,Domestic,x1000 tons of CO2,1127.5
+2016,Domestic,x1000 tons of CO2,942.7	
+2017,Domestic,x1000 tons of CO2,1062.0		
+2018,Domestic,x1000 tons of CO2,1045.9
+2019,Domestic,x1000 tons of CO2,847.4
+2020,Domestic,x1000 tons of CO2,719.0	
+2021,Domestic,x1000 tons of CO2,736.4	
+2022,Domestic,x1000 tons of CO2,759.3
+2023,Domestic,x1000 tons of CO2,610.7
+2024,Domestic,x1000 tons of CO2,532.8
+2015,Commerce,1000 tn CO2,1535.1
+2016,Commerce,1000 tn CO2,1233.3
+2017,Commerce,1000 tn CO2,1412.3
+2018,Commerce,1000 tn CO2,1273.4
+2019,Commerce,1000 tn CO2,975.5
+2020,Commerce,1000 tn CO2,660.6
+2021,Commerce,1000 tn CO2,717.5
+2022,Commerce,1000 tn CO2,872.2
+2023,Commerce,1000 tn CO2,665.1
+2024,Commerce,1000 tn CO2,586.9
+2015,Industrial,x1000 tons of CO2,418.3
+2016,Industrial,x1000 tons of CO2,365.6
+2017,Industrial,x1000 tons of CO2,361.1
+2018,Industrial,x1000 tons of CO2,364.4
+2019,Industrial,x1000 tons of CO2,317.6
+2020,Industrial,x1000 tons of CO2,282.8
+2021,Industrial,x1000 tons of CO2,291.6
+2022,Industrial,x1000 tons of CO2,267.6
+2023,Industrial,x1000 tons of CO2,212.8
+2024,Industrial,x1000 tons of CO2,196.0
+2015,Transport,x1000 tons of CO2,1095.0
+2016,Transport,x1000 tons of CO2,1067.6	
+2017,Transport,x1000 tons of CO2,998.3
+2018,Transport,x1000 tons of CO2,1011.2	
+2019,Transport,x1000 tons of CO2,969.4
+2020,Transport,x1000 tons of CO2,732.2	
+2021,Transport,x1000 tons of CO2,885.1	
+2022,Transport,x1000 tons of CO2,936.1	
+2023,Transport,x1000 tons of CO2,893.2	
+2024,Transport,x1000 tons of CO2,849.3
+2015,Others,x1000 tons of CO2,31.0
+2016,Others,x1000 tons of CO2,26.3
+2017,Others,x1000 tons of CO2,29.9
+2018,Others,x1000 tons of CO2,27.8
+2019,Others,x1000 tons of CO2,23.6
+2020,Others,x1000 tons of CO2,4.9
+2021,Others,x1000 tons of CO2,4.7
+2022,Others,x1000 tons of CO2,6.8
+2023,Others,x1000 tons of CO2,5.2
+2024,Others,x1000 tons of CO2,4.1
+2015,Port and Airport,x1000 tons of CO2,411.4
 2016,Port and Airport,x1000 tons of CO2,444.1
 2017,Port and Airport,x1000 tons of CO2,438.8
-2018,Port and Airport,x1000 tons of CO2,451.2
-2019,Port and Airport,x1000 tons of CO2,449.6
+2018,Port and Airport,x1000 tons of CO2,446.9
+2019,Port and Airport,x1000 tons of CO2,447.4	
 2020,Port and Airport,x1000 tons of CO2,266.3
 2021,Port and Airport,x1000 tons of CO2,315.0
-2022,Port and Airport,x1000 tons of CO2,415.0
-2023,Port and Airport,x1000 tons of CO2,392.1
+2022,Port and Airport,x1000 tons of CO2,478.7
+2023,Port and Airport,x1000 tons of CO2,488.7	
+2024,Port and Airport,x1000 tons of CO2,502.4
 2015,Waste Treatment,x1000 tons of CO2,316.2
 2016,Waste Treatment,x1000 tons of CO2,346.8
 2017,Waste Treatment,x1000 tons of CO2,364.2
-2018,Waste Treatment,x1000 tons of CO2,362.6
-2019,Waste Treatment,x1000 tons of CO2,360.2
-2020,Waste Treatment,x1000 tons of CO2,297.1
+2018,Waste Treatment,x1000 tons of CO2,370.2
+2019,Waste Treatment,x1000 tons of CO2,366.2
+2020,Waste Treatment,x1000 tons of CO2,304.6
 2021,Waste Treatment,x1000 tons of CO2,300.3
 2022,Waste Treatment,x1000 tons of CO2,377.7
-2023,Waste Treatment,x1000 tons of CO2,361.2
-2015,Total Emissions,x1000 tons of CO2,3455.5
-2016,Total Emissions,x1000 tons of CO2,3460.2
-2017,Total Emissions,x1000 tons of CO2,3408.3
-2018,Total Emissions,x1000 tons of CO2,3565.4
-2019,Total Emissions,x1000 tons of CO2,3557.5
-2020,Total Emissions,x1000 tons of CO2,2740.8
-2021,Total Emissions,x1000 tons of CO2,2992.3	
-2022,Total Emissions,x1000 tons of CO2,3285.8
-2023,Total Emissions,x1000 tons of CO2,3088.0
+2023,Waste Treatment,x1000 tons of CO2,361.1
+2024,Waste Treatment,x1000 tons of CO2,361.1	
+2015,Total Emissions,x1000 tons of CO2,4934.6	
+2016,Total Emissions,x1000 tons of CO2,4426.5
+2017,Total Emissions,x1000 tons of CO2,4666.6	
+2018,Total Emissions,x1000 tons of CO2,4539.9	
+2019,Total Emissions,x1000 tons of CO2,3947.0	
+2020,Total Emissions,x1000 tons of CO2,2969.8
+2021,Total Emissions,x1000 tons of CO2,3250.6		
+2022,Total Emissions,x1000 tons of CO2,3698.5
+2023,Total Emissions,x1000 tons of CO2,3236.8	
+2024,Total Emissions,x1000 tons of CO2,3032.7
+
+
+ 
+ 
