@@ -912,6 +912,41 @@
       "title": "Annual number of people hired through the Barcelona Job Placement Network for People with Disabilities (XIB)"
     },
     {
+      "path": "8-4-1/data.csv",
+      "name": "8-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentatge",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "GDP of the social economy over total GDP "
+    },
+    {
       "path": "6-5-1/data.csv",
       "name": "6-5-1",
       "profile": "tabular-data-resource",
@@ -9274,30 +9309,6 @@
         ]
       },
       "title": "Proporció de dones d'entre 15 i 49 anys que prenen les seves pròpies decisions informades sobre les relacions sexuals, l'ús d'anticonceptius i l'atenció de la salut reproductiva"
-    },
-    {
-      "path": "8-4-1/data.csv",
-      "name": "8-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "GDP of the social economy over total GDP "
     },
     {
       "path": "12-4-2/data.csv",
