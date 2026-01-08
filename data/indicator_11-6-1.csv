@@ -17,6 +17,8 @@ Year,Air_Pollutants,Units,Value
 2020,PM10,µg/m3,22.6
 2021,PM10,µg/m3,22.5
 2022,PM10,µg/m3,25.1
+2023,PM10,µg/m3,22.0
+2024,PM10,µg/m3,22.0
 2015,PM2.5,µg/m3,17.0
 2016,PM2.5,µg/m3,14.0
 2017,PM2.5,µg/m3,16.0
@@ -27,3 +29,4 @@ Year,Air_Pollutants,Units,Value
 2022,PM2.5,µg/m3,15.0
 2023,PM2.5,µg/m3,14.0
 2024,PM2.5,µg/m3,14.0
+
