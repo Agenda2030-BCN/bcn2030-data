@@ -9,6 +9,7 @@ Year,Sexo,Units,Value
 2022,,Número total en miles,68.1
 2023,,Número total en miles,54.0
 2024,,Número total en miles,51.5
+2025,,Número total en miles,75.7
 2015,Hombres,Número total en miles,49.3
 2016,Hombres,Número total en miles,46.8
 2017,Hombres,Número total en miles,43.6
@@ -19,6 +20,7 @@ Year,Sexo,Units,Value
 2022,Hombres,Número total en miles,34.4
 2023,Hombres,Número total en miles,25.8
 2024,Hombres,Número total en miles,28.3
+2025,Hombres,Número total en miles,36.4
 2015,Mujeres,Número total en miles,53.7
 2016,Mujeres,Número total en miles,47.0
 2017,Mujeres,Número total en miles,36.7
@@ -29,3 +31,4 @@ Year,Sexo,Units,Value
 2022,Mujeres,Número total en miles,33.7
 2023,Mujeres,Número total en miles,28.2
 2024,Mujeres,Número total en miles,23.2
+2025,Mujeres,Número total en miles,39.3
