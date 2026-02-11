@@ -3676,7 +3676,7 @@
           }
         ]
       },
-      "title": "Number of illnesses associated with salaried work per 100,000 inhabitants"
+      "title": "Number of illnesses associated with salaried work per 100,000 salaried workers"
     },
     {
       "path": "5-2-2/data.csv",
