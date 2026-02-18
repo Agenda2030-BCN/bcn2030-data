@@ -9,6 +9,7 @@ Year,Escenari,Units,Value
 2022,Normalitat,Number of days,20
 2023,Normalitat,Number of days,0
 2024,Normalitat,Number of days,0
+2025,Normalitat,Number of days,230
 2015,Pre-alerta,Number of days,0
 2016,Pre-alerta,Number of days,85
 2017,Pre-alerta,Number of days,101
@@ -19,6 +20,7 @@ Year,Escenari,Units,Value
 2022,Pre-alerta,Number of days,173
 2023,Pre-alerta,Number of days,0
 2024,Pre-alerta,Number of days,0
+2025,Pre-alerta,Number of days,35
 2015,Pre-alerta2,Number of days,0
 2016,Pre-alerta2,Number of days,0
 2017,Pre-alerta2,Number of days,0
@@ -29,6 +31,7 @@ Year,Escenari,Units,Value
 2022,Pre-alerta2,Number of days,127
 2023,Pre-alerta2,Number of days,0
 2024,Pre-alerta2,Number of days,0
+2025,Pre-alerta2,Number of days,0
 2015,Alerta,Number of days,0
 2016,Alerta,Number of days,0
 2017,Alerta,Number of days,0
@@ -39,6 +42,7 @@ Year,Escenari,Units,Value
 2022,Alerta,Number of days,45
 2023,Alerta,Number of days,59
 2024,Alerta,Number of days,186
+2025,Alerta,Number of days,100
 2015,Excepcionalitat,Number of days,0
 2016,Excepcionalitat,Number of days,0
 2017,Excepcionalitat,Number of days,0
@@ -49,6 +53,7 @@ Year,Escenari,Units,Value
 2022,Excepcionalitat,Number of days,0
 2023,Excepcionalitat,Number of days,268
 2024,Excepcionalitat,Number of days,46
+2025,Excepcionalitat,Number of days,0
 2015,Pre-emergency,Number of days,0
 2016,Pre-emergency,Number of days,0
 2017,Pre-emergency,Number of days,0
@@ -59,6 +64,7 @@ Year,Escenari,Units,Value
 2022,Pre-emergency,Number of days,0
 2023,Pre-emergency,Number of days,38
 2024,Pre-emergency,Number of days,31
+2025,Pre-emergency,Number of days,0
 2015,Emergència,Number of days,0
 2016,Emergència,Number of days,0
 2017,Emergència,Number of days,0
@@ -69,3 +75,4 @@ Year,Escenari,Units,Value
 2022,Emergència,Number of days,0
 2023,Emergència,Number of days,0
 2024,Emergència,Number of days,102
+2025,Emergència,Number of days,0
