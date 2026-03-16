@@ -1,1 +1,1 @@
-{"data":{"Year":[2020,2020,2020],"Sexo":[null,"Hombres","Mujeres"],"Units":["Porcentaje","Porcentaje","Porcentaje"],"Value":[4.1,3.0,5.0]},"edges":[]}
+{"data":{"Year":[2020,2020,2020,2025,2025,2025],"Sexo":[null,"Hombres","Mujeres",null,"Hombres","Mujeres"],"Units":["Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje"],"Value":[4.1,3.0,5.0,7.0,6.6,7.4]},"edges":[]}
