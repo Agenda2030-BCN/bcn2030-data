@@ -8616,10 +8616,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Weekdays in July (10 minutes)",
-                "Weekdays in July (5 minutes)",
-                "Sunday in August (10 minutes)",
-                "Sunday in August (5 minutes)",
+                "Entre semana julio (10 minutos)",
+                "Entre semana julio (5 minutos)",
+                "Domingo de agosto (10 minutos)",
+                "Domingo de agosto (5 minutos)",
                 ""
               ]
             },
