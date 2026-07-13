@@ -1,7 +1,25 @@
-Year,Units,Value
-2021,Percentage,87.5
-2022,Percentage,95.0
-2023,Percentage,97.0
-2024,Percentage,98.0
-2025,Percentage,99.0
-2026,Percentage,99.0
+Year,Type_refuge,Units,Value
+2021,Weekdays in July (10 minutes),Percentage,87.5
+2022,Weekdays in July (10 minutes),Percentage,95.0
+2023,Weekdays in July (10 minutes),Percentage,97.0
+2024,Weekdays in July (10 minutes),Percentage,98.0
+2025,Weekdays in July (10 minutes),Percentage,99.0
+2026,Weekdays in July (10 minutes),Percentage,99.0
+2021,Weekdays in July (5 minutes),Percentage,47.0
+2022,Weekdays in July (5 minutes),Percentage,54.0
+2023,Weekdays in July (5 minutes),Percentage,59.0
+2024,Weekdays in July (5 minutes),Percentage,68.0
+2025,Weekdays in July (5 minutes),Percentage,74.0
+2026,Weekdays in July (5 minutes),Percentage,77.0
+2021,Sunday in August (10 minutes),Percentage,74.0
+2022,Sunday in August (10 minutes),Percentage,76.0
+2023,Sunday in August (10 minutes),Percentage,80.0
+2024,Sunday in August (10 minutes),Percentage,89.0
+2025,Sunday in August (10 minutes),Percentage,91.0
+2026,Sunday in August (10 minutes),Percentage,92.0
+2021,Sunday in August (5 minutes),Percentage,29.0
+2022,Sunday in August (5 minutes),Percentage,31.0
+2023,Sunday in August (5 minutes),Percentage,33.0
+2024,Sunday in August (5 minutes),Percentage,45.0
+2025,Sunday in August (5 minutes),Percentage,48.0
+2026,Sunday in August (5 minutes),Percentage,49.0
