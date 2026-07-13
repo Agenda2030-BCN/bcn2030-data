@@ -1,7 +1,25 @@
-Year,Units,Value
-2021,Percentatge,87.5
-2022,Percentatge,95.0
-2023,Percentatge,97.0
-2024,Percentatge,98.0
-2025,Percentatge,99.0
-2026,Percentatge,99.0
+Year,Type_refuge,Units,Value
+2021,Weekdays in July (10 minutes),Percentatge,87.5
+2022,Weekdays in July (10 minutes),Percentatge,95.0
+2023,Weekdays in July (10 minutes),Percentatge,97.0
+2024,Weekdays in July (10 minutes),Percentatge,98.0
+2025,Weekdays in July (10 minutes),Percentatge,99.0
+2026,Weekdays in July (10 minutes),Percentatge,99.0
+2021,Weekdays in July (5 minutes),Percentatge,47.0
+2022,Weekdays in July (5 minutes),Percentatge,54.0
+2023,Weekdays in July (5 minutes),Percentatge,59.0
+2024,Weekdays in July (5 minutes),Percentatge,68.0
+2025,Weekdays in July (5 minutes),Percentatge,74.0
+2026,Weekdays in July (5 minutes),Percentatge,77.0
+2021,Sunday in August (10 minutes),Percentatge,74.0
+2022,Sunday in August (10 minutes),Percentatge,76.0
+2023,Sunday in August (10 minutes),Percentatge,80.0
+2024,Sunday in August (10 minutes),Percentatge,89.0
+2025,Sunday in August (10 minutes),Percentatge,91.0
+2026,Sunday in August (10 minutes),Percentatge,92.0
+2021,Sunday in August (5 minutes),Percentatge,29.0
+2022,Sunday in August (5 minutes),Percentatge,31.0
+2023,Sunday in August (5 minutes),Percentatge,33.0
+2024,Sunday in August (5 minutes),Percentatge,45.0
+2025,Sunday in August (5 minutes),Percentatge,48.0
+2026,Sunday in August (5 minutes),Percentatge,49.0

@@ -16,6 +16,20 @@
             "title": "Year"
           },
           {
+            "name": "Type_refuge",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weekdays in July (10 minutes)",
+                "Weekdays in July (5 minutes)",
+                "Sunday in August (10 minutes)",
+                "Sunday in August (5 minutes)",
+                ""
+              ]
+            },
+            "title": "Type_refuge"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
