@@ -9,6 +9,7 @@ Year,Contaminants de l'aire,Units,Value
 2022,NO2,µg/m3,31.0
 2023,NO2,µg/m3,26.0
 2024,NO2,µg/m3,25.0
+2025,NO2,µg/m3,24.0
 2015,PM10,µg/m3,28.0
 2016,PM10,µg/m3,24.0
 2017,PM10,µg/m3,25.4
@@ -29,3 +30,4 @@ Year,Contaminants de l'aire,Units,Value
 2022,PM2.5,µg/m3,15.0
 2023,PM2.5,µg/m3,14.0
 2024,PM2.5,µg/m3,14.0
+2025,PM2.5,µg/m3,12.0
