@@ -4142,7 +4142,7 @@
           }
         ]
       },
-      "title": "Number of energy rating A and B buildings "
+      "title": "Number of energy rating A and B buildings, and percentage of energy rating A and B buildings out of the total number of buildings"
     },
     {
       "path": "10-7-1/data.csv",
