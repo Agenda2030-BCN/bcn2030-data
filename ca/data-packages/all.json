@@ -4526,7 +4526,7 @@
           }
         ]
       },
-      "title": "Cumulative number of non-renewable primary energy certificates with A and B ratings, and as a percentage of the total number of certificates"
+      "title": "Number of buildings with non-renewable primary energy certificates rated A and B, and as a percentage of the total number of certified buildings"
     },
     {
       "path": "10-7-1/data.csv",
