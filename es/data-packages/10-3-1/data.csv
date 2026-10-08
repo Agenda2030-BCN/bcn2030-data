@@ -9,6 +9,7 @@ Year,Tipo de servicio cultural,Units,Value
 2023,Biblioteca pública,Porcentaje,17.1
 2024,Biblioteca pública,Porcentaje,15.7
 2025,Biblioteca pública,Porcentaje,13.7
+2026,Biblioteca pública,Porcentaje,14.6
 2016,Fiestas populares,Porcentaje,11.7
 2017,Fiestas populares,Porcentaje,
 2018,Fiestas populares,Porcentaje,
@@ -19,6 +20,7 @@ Year,Tipo de servicio cultural,Units,Value
 2023,Fiestas populares,Porcentaje,16.9
 2024,Fiestas populares,Porcentaje,13.9
 2025,Fiestas populares,Porcentaje,11.2
+2026,Fiestas populares,Porcentaje,13.9
 2016,Actividad cultural,Porcentaje,23.7
 2017,Actividad cultural,Porcentaje,
 2018,Actividad cultural,Porcentaje,
@@ -29,3 +31,4 @@ Year,Tipo de servicio cultural,Units,Value
 2023,Actividad cultural,Porcentaje,27.6
 2024,Actividad cultural,Porcentaje,22.6
 2025,Actividad cultural,Porcentaje,20.6
+2026,Actividad cultural,Porcentaje,22.7
