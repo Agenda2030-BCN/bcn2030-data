@@ -10,6 +10,7 @@ Year,Gender,Units,Value
 2023,,Percentage,86.2
 2024,,Percentage,85.9
 2025,,Percentage,85.4
+2026,,Percentage,86.3
 2015,Men,Percentage,86.9
 2016,Men,Percentage,88.8
 2017,Men,Percentage,88.1
@@ -21,6 +22,7 @@ Year,Gender,Units,Value
 2023,Men,Percentage,88.8
 2024,Men,Percentage,90.0
 2025,Men,Percentage,88.5
+2026,Men,Percentage,89.2
 2015,Women,Percentage,81.0
 2016,Women,Percentage,82.5
 2017,Women,Percentage,83.6
@@ -32,3 +34,4 @@ Year,Gender,Units,Value
 2023,Women,Percentage,83.8
 2024,Women,Percentage,82.4
 2025,Women,Percentage,82.6
+2026,Women,Percentage,83.8
