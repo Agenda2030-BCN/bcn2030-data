@@ -1,46 +1,45 @@
 Year,Medio de transporte,Units,Value
-2015,A pie,Porcentaje,43.5
-2016,A pie,Porcentaje,35.6
-2017,A pie,Porcentaje,34.5
-2018,A pie,Porcentaje,40.1
-2019,A pie,Porcentaje,42.5
-2020,A pie,Porcentaje,48.8
-2021,A pie,Porcentaje,45.5
-2022,A pie,Porcentaje,44.0
-2023,A pie,Porcentaje,42.1
-2015,Transporte privado motorizado,Porcentaje,20.6
-2016,Transporte privado motorizado,Porcentaje,22.9
-2017,Transporte privado motorizado,Porcentaje,22.3
-2018,Transporte privado motorizado,Porcentaje,21.4
-2019,Transporte privado motorizado,Porcentaje,20.1
-2020,Transporte privado motorizado,Porcentaje,21.5
-2021,Transporte privado motorizado,Porcentaje,23.5
-2022,Transporte privado motorizado,Porcentaje,21.3
-2023,Transporte privado motorizado,Porcentaje,19.9
-2015,Bicicleta y VMP,Porcentaje,1.6
-2016,Bicicleta y VMP,Porcentaje,2.2
-2017,Bicicleta y VMP,Porcentaje,2.6
-2018,Bicicleta y VMP,Porcentaje,2.5
-2019,Bicicleta y VMP,Porcentaje,2.7
-2020,Bicicleta y VMP,Porcentaje,3.5
-2021,Bicicleta y VMP,Porcentaje,3.2
-2022,Bicicleta y VMP,Porcentaje,3.8
-2023,Bicicleta y VMP,Porcentaje,3.8
-2015,Transporte público,Porcentaje,34.2
-2016,Transporte público,Porcentaje,39.2
-2017,Transporte público,Porcentaje,40.6
-2018,Transporte público,Porcentaje,36.0
-2019,Transporte público,Porcentaje,34.7
-2020,Transporte público,Porcentaje,26.1
-2021,Transporte público,Porcentaje,27.8
-2022,Transporte público,Porcentaje,30.9
-2023,Transporte público,Porcentaje,34.2
-2015,Ecomovilidad,Porcentaje,79.4
-2016,Ecomovilidad,Porcentaje,77.1
-2017,Ecomovilidad,Porcentaje,77.7
-2018,Ecomovilidad,Porcentaje,78.6
-2019,Ecomovilidad,Porcentaje,79.9
-2020,Ecomovilidad,Porcentaje,78.5
-2021,Ecomovilidad,Porcentaje,76.5
-2022,Ecomovilidad,Porcentaje,78.7
-2023,Ecomovilidad,Porcentaje,80.1
+2015,Transporte privado motorizado,Porcentaje,23.2
+2016,Transporte privado motorizado,Porcentaje,25.3
+2017,Transporte privado motorizado,Porcentaje,20.4
+2018,Transporte privado motorizado,Porcentaje,24.1
+2019,Transporte privado motorizado,Porcentaje,22.8
+2020,Transporte privado motorizado,Porcentaje,24.0
+2021,Transporte privado motorizado,Porcentaje,25.4
+2022,Transporte privado motorizado,Porcentaje,23.2
+2023,Transporte privado motorizado,Porcentaje,21.0
+2024,Transporte privado motorizado,Porcentaje,20.7
+2025,Transporte privado motorizado,Porcentaje,21.5
+2015,Active mobility,Porcentaje,41.7
+2016,Active mobility,Porcentaje,36.8
+2017,Active mobility,Porcentaje,45.1
+2018,Active mobility,Porcentaje,40.2
+2019,Active mobility,Porcentaje,44.1
+2020,Active mobility,Porcentaje,53.5
+2021,Active mobility,Porcentaje,46.4
+2022,Active mobility,Porcentaje,46.9
+2023,Active mobility,Porcentaje,47.6
+2024,Active mobility,Porcentaje,44.1
+2025,Active mobility,Porcentaje,44.8
+2015,Transporte público,Porcentaje,35.1
+2016,Transporte público,Porcentaje,37.9
+2017,Transporte público,Porcentaje,34.5
+2018,Transporte público,Porcentaje,35.8
+2019,Transporte público,Porcentaje,33.1
+2020,Transporte público,Porcentaje,22.5
+2021,Transporte público,Porcentaje,28.2
+2022,Transporte público,Porcentaje,29.9
+2023,Transporte público,Porcentaje,31.4
+2024,Transporte público,Porcentaje,35.2
+2025,Transporte público,Porcentaje,33.7
+2015,Ecomovilidad,Porcentaje,76.8
+2016,Ecomovilidad,Porcentaje,74.7
+2017,Ecomovilidad,Porcentaje,79.6
+2018,Ecomovilidad,Porcentaje,76.0
+2019,Ecomovilidad,Porcentaje,77.2
+2020,Ecomovilidad,Porcentaje,76.0
+2021,Ecomovilidad,Porcentaje,74.6
+2022,Ecomovilidad,Porcentaje,76.8
+2023,Ecomovilidad,Porcentaje,79.0
+2024,Ecomovilidad,Porcentaje,79.3
+2025,Ecomovilidad,Porcentaje,78.5

@@ -1,46 +1,45 @@
 Year,Mean of transportation,Units,Value
-2015,Walking,Percentage,43.5
-2016,Walking,Percentage,35.6
-2017,Walking,Percentage,34.5
-2018,Walking,Percentage,40.1
-2019,Walking,Percentage,42.5
-2020,Walking,Percentage,48.8
-2021,Walking,Percentage,45.5
-2022,Walking,Percentage,44.0
-2023,Walking,Percentage,42.1
-2015,Private motor vehicles,Percentage,20.6
-2016,Private motor vehicles,Percentage,22.9
-2017,Private motor vehicles,Percentage,22.3
-2018,Private motor vehicles,Percentage,21.4
-2019,Private motor vehicles,Percentage,20.1
-2020,Private motor vehicles,Percentage,21.5
-2021,Private motor vehicles,Percentage,23.5
-2022,Private motor vehicles,Percentage,21.3
-2023,Private motor vehicles,Percentage,19.9
-2015,Bicycles and scooters,Percentage,1.6
-2016,Bicycles and scooters,Percentage,2.2
-2017,Bicycles and scooters,Percentage,2.6
-2018,Bicycles and scooters,Percentage,2.5
-2019,Bicycles and scooters,Percentage,2.7
-2020,Bicycles and scooters,Percentage,3.5
-2021,Bicycles and scooters,Percentage,3.2
-2022,Bicycles and scooters,Percentage,3.8
-2023,Bicycles and scooters,Percentage,3.8
-2015,Public transport,Percentage,34.2
-2016,Public transport,Percentage,39.2
-2017,Public transport,Percentage,40.6
-2018,Public transport,Percentage,36.0
-2019,Public transport,Percentage,34.7
-2020,Public transport,Percentage,26.1
-2021,Public transport,Percentage,27.8
-2022,Public transport,Percentage,30.9
-2023,Public transport,Percentage,34.2
-2015,Ecomobility,Percentage,79.4
-2016,Ecomobility,Percentage,77.1
-2017,Ecomobility,Percentage,77.7
-2018,Ecomobility,Percentage,78.6
-2019,Ecomobility,Percentage,79.9
-2020,Ecomobility,Percentage,78.5
-2021,Ecomobility,Percentage,76.5
-2022,Ecomobility,Percentage,78.7
-2023,Ecomobility,Percentage,80.1
+2015,Private motor vehicles,Percentage,23.2
+2016,Private motor vehicles,Percentage,25.3
+2017,Private motor vehicles,Percentage,20.4
+2018,Private motor vehicles,Percentage,24.1
+2019,Private motor vehicles,Percentage,22.8
+2020,Private motor vehicles,Percentage,24.0
+2021,Private motor vehicles,Percentage,25.4
+2022,Private motor vehicles,Percentage,23.2
+2023,Private motor vehicles,Percentage,21.0
+2024,Private motor vehicles,Percentage,20.7
+2025,Private motor vehicles,Percentage,21.5
+2015,Active mobility,Percentage,41.7
+2016,Active mobility,Percentage,36.8
+2017,Active mobility,Percentage,45.1
+2018,Active mobility,Percentage,40.2
+2019,Active mobility,Percentage,44.1
+2020,Active mobility,Percentage,53.5
+2021,Active mobility,Percentage,46.4
+2022,Active mobility,Percentage,46.9
+2023,Active mobility,Percentage,47.6
+2024,Active mobility,Percentage,44.1
+2025,Active mobility,Percentage,44.8
+2015,Public transport,Percentage,35.1
+2016,Public transport,Percentage,37.9
+2017,Public transport,Percentage,34.5
+2018,Public transport,Percentage,35.8
+2019,Public transport,Percentage,33.1
+2020,Public transport,Percentage,22.5
+2021,Public transport,Percentage,28.2
+2022,Public transport,Percentage,29.9
+2023,Public transport,Percentage,31.4
+2024,Public transport,Percentage,35.2
+2025,Public transport,Percentage,33.7
+2015,Ecomobility,Percentage,76.8
+2016,Ecomobility,Percentage,74.7
+2017,Ecomobility,Percentage,79.6
+2018,Ecomobility,Percentage,76.0
+2019,Ecomobility,Percentage,77.2
+2020,Ecomobility,Percentage,76.0
+2021,Ecomobility,Percentage,74.6
+2022,Ecomobility,Percentage,76.8
+2023,Ecomobility,Percentage,79.0
+2024,Ecomobility,Percentage,79.3
+2025,Ecomobility,Percentage,78.5

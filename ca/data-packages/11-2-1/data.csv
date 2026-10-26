@@ -1,46 +1,45 @@
 Year,Mitjà de transport,Units,Value
-2015,A peu,Percentatge,43.5
-2016,A peu,Percentatge,35.6
-2017,A peu,Percentatge,34.5
-2018,A peu,Percentatge,40.1
-2019,A peu,Percentatge,42.5
-2020,A peu,Percentatge,48.8
-2021,A peu,Percentatge,45.5
-2022,A peu,Percentatge,44.0
-2023,A peu,Percentatge,42.1
-2015,Transport privat motoritzat,Percentatge,20.6
-2016,Transport privat motoritzat,Percentatge,22.9
-2017,Transport privat motoritzat,Percentatge,22.3
-2018,Transport privat motoritzat,Percentatge,21.4
-2019,Transport privat motoritzat,Percentatge,20.1
-2020,Transport privat motoritzat,Percentatge,21.5
-2021,Transport privat motoritzat,Percentatge,23.5
-2022,Transport privat motoritzat,Percentatge,21.3
-2023,Transport privat motoritzat,Percentatge,19.9
-2015,Bicicleta i VMP,Percentatge,1.6
-2016,Bicicleta i VMP,Percentatge,2.2
-2017,Bicicleta i VMP,Percentatge,2.6
-2018,Bicicleta i VMP,Percentatge,2.5
-2019,Bicicleta i VMP,Percentatge,2.7
-2020,Bicicleta i VMP,Percentatge,3.5
-2021,Bicicleta i VMP,Percentatge,3.2
-2022,Bicicleta i VMP,Percentatge,3.8
-2023,Bicicleta i VMP,Percentatge,3.8
-2015,Transport public,Percentatge,34.2
-2016,Transport public,Percentatge,39.2
-2017,Transport public,Percentatge,40.6
-2018,Transport public,Percentatge,36.0
-2019,Transport public,Percentatge,34.7
-2020,Transport public,Percentatge,26.1
-2021,Transport public,Percentatge,27.8
-2022,Transport public,Percentatge,30.9
-2023,Transport public,Percentatge,34.2
-2015,Ecomobilitat,Percentatge,79.4
-2016,Ecomobilitat,Percentatge,77.1
-2017,Ecomobilitat,Percentatge,77.7
-2018,Ecomobilitat,Percentatge,78.6
-2019,Ecomobilitat,Percentatge,79.9
-2020,Ecomobilitat,Percentatge,78.5
-2021,Ecomobilitat,Percentatge,76.5
-2022,Ecomobilitat,Percentatge,78.7
-2023,Ecomobilitat,Percentatge,80.1
+2015,Transport privat motoritzat,Percentatge,23.2
+2016,Transport privat motoritzat,Percentatge,25.3
+2017,Transport privat motoritzat,Percentatge,20.4
+2018,Transport privat motoritzat,Percentatge,24.1
+2019,Transport privat motoritzat,Percentatge,22.8
+2020,Transport privat motoritzat,Percentatge,24.0
+2021,Transport privat motoritzat,Percentatge,25.4
+2022,Transport privat motoritzat,Percentatge,23.2
+2023,Transport privat motoritzat,Percentatge,21.0
+2024,Transport privat motoritzat,Percentatge,20.7
+2025,Transport privat motoritzat,Percentatge,21.5
+2015,Active mobility,Percentatge,41.7
+2016,Active mobility,Percentatge,36.8
+2017,Active mobility,Percentatge,45.1
+2018,Active mobility,Percentatge,40.2
+2019,Active mobility,Percentatge,44.1
+2020,Active mobility,Percentatge,53.5
+2021,Active mobility,Percentatge,46.4
+2022,Active mobility,Percentatge,46.9
+2023,Active mobility,Percentatge,47.6
+2024,Active mobility,Percentatge,44.1
+2025,Active mobility,Percentatge,44.8
+2015,Transport public,Percentatge,35.1
+2016,Transport public,Percentatge,37.9
+2017,Transport public,Percentatge,34.5
+2018,Transport public,Percentatge,35.8
+2019,Transport public,Percentatge,33.1
+2020,Transport public,Percentatge,22.5
+2021,Transport public,Percentatge,28.2
+2022,Transport public,Percentatge,29.9
+2023,Transport public,Percentatge,31.4
+2024,Transport public,Percentatge,35.2
+2025,Transport public,Percentatge,33.7
+2015,Ecomobilitat,Percentatge,76.8
+2016,Ecomobilitat,Percentatge,74.7
+2017,Ecomobilitat,Percentatge,79.6
+2018,Ecomobilitat,Percentatge,76.0
+2019,Ecomobilitat,Percentatge,77.2
+2020,Ecomobilitat,Percentatge,76.0
+2021,Ecomobilitat,Percentatge,74.6
+2022,Ecomobilitat,Percentatge,76.8
+2023,Ecomobilitat,Percentatge,79.0
+2024,Ecomobilitat,Percentatge,79.3
+2025,Ecomobilitat,Percentatge,78.5

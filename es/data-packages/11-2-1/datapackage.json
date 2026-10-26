@@ -20,9 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A pie",
                 "Transporte privado motorizado",
-                "Bicicleta y VMP",
+                "Active mobility",
                 "Transporte público",
                 "Ecomovilidad",
                 ""

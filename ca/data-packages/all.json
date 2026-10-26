@@ -3357,9 +3357,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A peu",
                 "Transport privat motoritzat",
-                "Bicicleta i VMP",
+                "Active mobility",
                 "Transport public",
                 "Ecomobilitat",
                 ""

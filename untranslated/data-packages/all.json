@@ -3073,9 +3073,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Walking",
                 "Private motor vehicles",
-                "Bicycles and scooters",
+                "Active mobility",
                 "Public transport",
                 "Ecomobility",
                 ""
