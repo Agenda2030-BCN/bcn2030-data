@@ -3358,7 +3358,7 @@
             "constraints": {
               "enum": [
                 "Transporte privado motorizado",
-                "Active mobility",
+                "Mobilidad activa",
                 "Transporte público",
                 "Ecomovilidad",
                 ""
