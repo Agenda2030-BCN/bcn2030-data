@@ -10,6 +10,7 @@ Year,Type Public Transport,Units,Value
 2023,Metro,Rating 0-10,7.3
 2024,Metro,Rating 0-10,7.4
 2025,Metro,Rating 0-10,7.5
+2026,Metro,Rating 0-10,7.5
 2015,Bus,Rating 0-10,7.2
 2016,Bus,Rating 0-10,6.9
 2017,Bus,Rating 0-10,7.1
@@ -21,6 +22,7 @@ Year,Type Public Transport,Units,Value
 2023,Bus,Rating 0-10,7.3
 2024,Bus,Rating 0-10,7.5
 2025,Bus,Rating 0-10,7.4
+2026,Bus,Rating 0-10,7.4
 2015,Bicing,Rating 0-10,7.0
 2016,Bicing,Rating 0-10,7.1
 2017,Bicing,Rating 0-10,7.2
@@ -32,6 +34,7 @@ Year,Type Public Transport,Units,Value
 2023,Bicing,Rating 0-10,7.1
 2024,Bicing,Rating 0-10,7.0
 2025,Bicing,Rating 0-10,7.0
+2026,Bicing,Rating 0-10,7.1
 2015,Tram,Rating 0-10,
 2016,Tram,Rating 0-10,
 2017,Tram,Rating 0-10,7.7
@@ -43,3 +46,4 @@ Year,Type Public Transport,Units,Value
 2023,Tram,Rating 0-10,7.9
 2024,Tram,Rating 0-10,8.0
 2025,Tram,Rating 0-10,8.2
+2026,Tram,Rating 0-10,8.0
